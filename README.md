@@ -7,8 +7,10 @@ To ease into the process of making data open and working with open data, we have
 Hub's Indicators for Governments can be conceptually classified into the following three categories:
    
    * **Measures** are data measured over space and time that indicate trends, outliers and comparisons. Eg. Crime, Street crashes, parking violation
-    * **Places** are important locations that support common public service. Eg. Schools, Hospitals, Transit Stops
-    * **Boundaries** are distinct areas that denote an administrative, operational, or conceptual limit. Eg. Neighborhoods, Census Tracts, Counties
+   
+   * **Places** are important locations that support common public service. Eg. Schools, Hospitals, Transit Stops
+    
+   * **Boundaries** are distinct areas that denote an administrative, operational, or conceptual limit. Eg. Neighborhoods, Census Tracts, Counties
 
 Categorizing data into these explanatory types helps generalize them to understand and analyze them appropriately.
 
