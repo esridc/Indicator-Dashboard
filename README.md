@@ -1,5 +1,5 @@
 # Indicator-Dashboard
-A pythonic way to access and analyze initiative data and to build insightful infographics that convey a snapshot view of a city’s performance
+A pythonic way to access and analyze initiative data and to build insightful infographics that convey a snapshot view of a city’s performance. To learn more, click [here](https://github.com/esridc/Indicator-Dashboard/wiki/Indicator-Dashboard-information)
 
 ## Motivation
 To ease into the process of making data open and working with open data, we have put together a recommended list of key datasets or Indicators that, if provided and configured, can generate dashboards and meaningful analytics.
